@@ -66,7 +66,7 @@ Este simple mensaje comunica todo lo necesario acerca de qué recurso está soli
 DELETE /blog/15 HTTP/1.1`
 ```
 
-Además de la primera línea, un petición HTTP también tiene otras líneas de datos llamadas _request headers_, o `cabeceras de solicitud`, mediante las que puede entregar una amplia gama de información en la petición que recibirá el servidor.
+Además de la primera línea, una petición HTTP también tiene otras líneas de datos llamadas _request headers_, o `cabeceras de solicitud`, mediante las que puede entregar una amplia gama de información en la petición que recibirá el servidor.
 
 Toda respuesta proveniente de un servidor llevará consigo un `código de respuesta o status`. Algunos de los más comunes se detallan a continuación.
 
